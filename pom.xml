@@ -4,7 +4,7 @@
 
   <groupId>io.github.ci-cmg</groupId>
   <artifactId>h3-darwin-arm64</artifactId>
-  <version>3.7.0</version>
+  <version>3.7.1-SNAPSHOT</version>
 
   <name>${project.groupId}:${project.artifactId}</name>
   <description>
@@ -31,7 +31,7 @@
     <connection>scm:git:git@github.com:CI-CMG/h3-darwin-arm64.git</connection>
     <developerConnection>scm:git:git@github.com:CI-CMG/h3-darwin-arm64.git</developerConnection>
     <url>https://github.com/CI-CMG/h3-darwin-arm64</url>
-    <tag>v3.7.0</tag>
+    <tag>3.7</tag>
   </scm>
 
   <distributionManagement>
