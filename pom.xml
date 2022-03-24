@@ -6,7 +6,7 @@
 
   <groupId>io.github.ci-cmg</groupId>
   <artifactId>h3-darwin-arm64</artifactId>
-  <version>3.7.0.0-SNAPSHOT</version>
+  <version>3.7.0-SNAPSHOT</version>
 
   <name>${project.groupId}:${project.artifactId}</name>
   <description>
